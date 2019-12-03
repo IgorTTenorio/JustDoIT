@@ -1,2 +1,1 @@
-# JustDoIT
-Share knowledge, projects, codes and happiness!
+# Lixeira_Inteligente
